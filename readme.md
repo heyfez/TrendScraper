@@ -1,4 +1,4 @@
-#TrendScraper - A simple black friday deal scraper for trendevice.com
+# TrendScraper - A simple black friday deal scraper for trendevice.com
 
 ## Disclamer
 
